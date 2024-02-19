@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 30%;
+    margin: 30px auto;
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 15px;
+}
+.title{
+    font-size: 1.5rem;
+    color: white;
+}
+.cont__up, .cont__down{
+    width: 20%;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+.cont__up-btn, .cont__down-btn{
+    padding: 2px 6px;
+    font-size: 14px;
+    margin: 7px;
+    cursor: pointer;
+}
+p{
+    font-size: 1.1rem;
+}
